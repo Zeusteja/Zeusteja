@@ -14,11 +14,10 @@ Looking for: **AI Engineer / ML Engineer / Automation Engineer** roles — Hyder
 
 ### 🚀 Selected work
 
-**Social content pipeline** — fCut manual posting time by **<<50%>>**.
+**Social content pipeline** — Cut manual posting time by **<<50%>>**.
 
-**Email automation with human review checkpoints** — response time went from **<<time consuming>>** → **<<one click away>>**.
-
-**<<Advenced RAG LOR >>** — <<"answers product-doc questions with 80%+ retrieval accuracy">>. 
+**Email automation with human review checkpoints** 
+**<<Advenced_RAG_LOR >>** — <<"answers product-doc questions with 80%+ retrieval accuracy">>. 
 
 *(Only list projects you can point to — a working demo, repo, or a metric someone could ask you about in an interview.)*
 
