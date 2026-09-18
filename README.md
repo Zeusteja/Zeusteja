@@ -14,7 +14,7 @@ Looking for: **AI Engineer / ML Engineer / Automation Engineer** roles — Hyder
 
 ### 🚀 Selected work
 
-**Social content pipeline** — for creators/founders. <<One sentence on what it actually automates>>. Cut manual posting time by **<<50%>>**.
+**Social content pipeline** — fCut manual posting time by **<<50%>>**.
 
 **Email automation with human review checkpoints** — response time went from **<<time consuming>>** → **<<one click away>>**.
 
