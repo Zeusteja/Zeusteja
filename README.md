@@ -24,7 +24,7 @@ Looking for: **AI Engineer / ML Engineer / Automation Engineer** roles — Hyder
 ### 🧵 Earlier
 
 - Walmart Global Tech — built a custom heap in Python for shipping logistics optimization
-- AI/ML Intern, YBI Foundation — <<learnt end to end skills of Machine linearning and python fundamentals>>
+- AI/ML Intern, YBI Foundation 
 
 ### 🧰 Stack
 
